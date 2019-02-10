@@ -1,9 +1,12 @@
 # Site settings
 title: 1 stop drop shipping
-email: surelcc@1stopdropshipping.com
+email: support@1stopdropshipping.com
+phone: +86 18123937936
+address: Room 902, C2 Building,JinHengLi Garden, LongHua District,Shenzhen, China 518000
+
 description: > # this means to ignore newlines until "baseurl:"
  1stopdropshipping is the best product sourcing agent for small business which
- using aliexpress, shopify, ebay, wish or other e-commerce platform to do online business.
+ using Aliexpress, Shopify, Ebay, DHGate, Wish or other e-commerce platform to do online business.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://1stopdropshipping.com" # the base hostname & protocol for your site
 twitter_username: 1stopdropshipping
