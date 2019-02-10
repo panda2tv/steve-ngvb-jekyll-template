@@ -1,6 +1,3 @@
-- title: "About"
-  href: "/about/"
-
 - title: "Services"
   href: "/services/"
 
@@ -9,6 +6,12 @@
 
 - title: "Blog"
   href: "/blog/"
+
+- title: "Payment Method"
+  href: "/payment/"
+
+- title: "About"
+  href: "/about/"
 
 # - title: "Miscellany"
 #   href: "/miscellany/"
