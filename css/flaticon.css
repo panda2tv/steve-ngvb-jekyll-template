@@ -36,3 +36,10 @@ margin: 20px 20px;
 .flaticon-sale:before { content: "\f103"; }
 .flaticon-recruitment:before { content: "\f104"; }
 .flaticon-growth:before { content: "\f105"; }
+
+.call{
+  display: inline;
+  height: 32px;
+  width: 32px;
+  background-image: url("../images/call.svg");
+}
