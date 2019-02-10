@@ -99,3 +99,17 @@
       border-radius: $font-Flation-bg-border-radius;
       display: $font-Flation-bg-display;
     }
+.call {
+  width: 32px;
+  height: 32px;
+  background: url("../images/call1.svg");
+  background-size: 32px 32px;
+}
+
+.address {
+  float: left;
+  width: 262px;
+  height: 52px;
+  background: url("../images/logo-left.svg");
+  background-size: 262px 52px;
+}
