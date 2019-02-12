@@ -4,6 +4,7 @@ title: how it work
 permalink: /howitwork/
 ---
 
+![process]({{ site.baseurl}}/images/howitwork.svg)  
 
 1. free quote and get back in 2 days(for new customer) we will contact the factory and find best price&quality
 2. confirm shipment/price/quantity for the order
