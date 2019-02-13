@@ -5,8 +5,10 @@ phone: +86 18123937936
 address: Room 902, C2 Building,JinHengLi Garden, LongHua District,Shenzhen, China 518000
 
 description: > # this means to ignore newlines until "baseurl:"
- 1stopdropshipping is the best product sourcing agent for small business which
- using Aliexpress, Shopify, Ebay, DHGate, Wish or other e-commerce platform to do online business.
+ 1stopdropshipping is the best drop shipping agent for Shopify seller. And we Also serve as product sourcing agent for 
+ online/Offline small business. If you are seller at Amazon, Ebay, Wish or other e-commerce platform, 
+ we could help you with product sourcing, branding, private label, product research, shipping, packaging in 1 stop.
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://1stopdropshipping.com" # the base hostname & protocol for your site
 twitter_username: 1stopdropshipping
