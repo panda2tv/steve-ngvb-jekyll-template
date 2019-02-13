@@ -6,7 +6,7 @@ date:   2019-02-07
 
 Dropshippers, before scaling any product might have potential, the first thing you need to
 is figure out product cost. In most case, sell price should be at least
-Besides product cost, the price have to cover profit margin, online traffic, international shipping and whatnot.
+Besides product cost, the price have to cover profit margin, online traffic, international shipping and whatnot.  
 
 Let's do a price research. I'll randomly pickup a product at Amazon as below.
 
