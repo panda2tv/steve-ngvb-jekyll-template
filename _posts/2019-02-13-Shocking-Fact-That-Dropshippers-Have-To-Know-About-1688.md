@@ -3,7 +3,7 @@ layout: post
 title: Shocking Fact That Dropshippers Have To Know About 1688
 date: 2019-02-13
 ---
-
+![1688.com]({{ site.baseurl }}/images/1688.jpg)  
 What is [1688](https://www.1688.com/)? Simply put, China domestic version of Alibaba. It is a wholesale B2B e-commerce platform belong to e-commerce giant Alibaba Group. Alibaba is facing the international market, 1688 working on domestic market connect factories, manufacturers, suppliers to enterprises.  
 
 What drop shippers should know? Most of Alibaba seller is the middle man who gets their supplier from 1688. So if you buy from 1688, you may have more profit margin. But there are dropbacks.  
