@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: FAQ
-permalik: /faq/
+permalink: /faq/
 ---
 
 **How long does it take to process my order?**  
