@@ -10,8 +10,8 @@
 - title: "Blog"
   href: "/blog/"
 
-# - title: "Payment Method"
-#   href: "/payment/"
+- title: "FAQ"
+  href: "/faq/"
 
 - title: "About"
   href: "/about/"
