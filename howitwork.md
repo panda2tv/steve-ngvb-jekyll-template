@@ -14,7 +14,7 @@ permalink: /howitwork/
 
 # **No monthly fee! Charge fix service fee only pre-order!**  
 
-# **No middle man! directly deal with China base factories!**  
+# **No middle man! directly deal with China-based factories!**  
 
 # **We have everything you can find at Aliexpress!**  
 
