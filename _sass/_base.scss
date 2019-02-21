@@ -23,7 +23,13 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
-
+p strong {
+    font-family: $base-font-family;
+    font-size: 1.5em;
+    color: #ff1515;
+    line-height: $base-line-height;
+    background-color: $background-color;
+}
 
 
 /**
