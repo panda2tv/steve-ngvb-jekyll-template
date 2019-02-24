@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
  we could help you with product sourcing, branding, private label, product research, shipping, packaging in 1 stop.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://1stopdropshipping.com" # the base hostname & protocol for your site
+url: "https://1stopdropshipping.com" # the base hostname & protocol for your site
 # twitter_username: 1stopdropshipping
 facebook: 1stopdropshipping
 
