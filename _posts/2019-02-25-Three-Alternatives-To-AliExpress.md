@@ -3,8 +3,9 @@ layout: post
 title: 2019 Three Alternatives To AliExpress
 date: 2019-02-25
 ---
+AliEepress is commonly used as product source for drop shipping. While market changing rapidly and so does your business model. Are you still get complaints about its slow delivery time? Is your price competitive? Let's find out is any better alternatives than AliExpress. The article will introduce 3 alternatives to AliExpress.    
 
-what service you adopt reviews your status on the drop shipping business.  
+What service you adopt reviews your status on the drop shipping business.  
 There are three alternatives to [AliExpress](https://www.aliexpress.com/) for dropshipping. AliExpress is a great tool to get started with dropshipping and to get a feel for the business model. However, it is not an optimal fulfillment strategy when you start getting a lot of orders and want to provide a good customer experience. Each of these Aliexpress alternatives has a different level of barrier-to-entry and provide different benefits for your business.  
 
 The first method is [Oberlo](https://www.oberlo.com/) suppliers. Using Oberlo suppliers allows you to avoid going through AliExpress and streamlines your fulfillment by allowing you to one-click order for all your orders. However, the downside is that the products are priced at a markup relative to AliExpress and there can still be processing delays.
