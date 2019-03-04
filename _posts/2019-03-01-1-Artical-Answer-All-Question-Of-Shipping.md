@@ -42,6 +42,6 @@ Cons
 
 For a small package, ePacket delivery is the way to go. This delivery method was born out of an agreement with the US Post Services and Hong Kong Post, with the aim to make it easier for e-commerce entrepreneurs, like you, to ship products to the rest of the world.  
 
-Many dropshipper asking me about the shipping question, the price depends on your products and destination country, and it changes from time to time.  Please confirm before you trying to sale. Shipping is the main part of your cost.
+Many dropshipper asking me about the shipping question, the price depends on your products and destination country, and it changes from time to time.  Please confirm before you trying to sale. Shipping is the main part of your cost.  
 
 Any question regarding shipping, please leave comments below. I will address them shortly.
