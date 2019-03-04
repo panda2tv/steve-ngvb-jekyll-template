@@ -39,7 +39,7 @@ more detail please refer to epacket [offical site](http://shipping.ems.com.cn/pr
 
 | destination  | fee      |        | fee      |        | first weight | limit |
 |--------------|----------|--------|----------|--------|--------------|-------|
-|              | RMB/unit | RMB/KG | USD/unit | USD/KG | g            | g     |
+|              | RMB/unit | RMB/KG | USD/KG   | USD/KG | g            | g     |
 | Ireland      | 25       | 65     | 3.69     | 9.58   | 1            | 2000  |
 | Austria      | 25       | 60     | 3.69     | 8.84   | 1            | 2000  |
 | Australia    | 19       | 60     | 2.8      | 8.84   | 1            | 2000  |
@@ -79,7 +79,7 @@ more detail please refer to epacket [offical site](http://shipping.ems.com.cn/pr
 | Indonesia    | 14       | 45     | 2.07     | 6.63   | 1            | 2000  |
 | Britain      | 17       | 60     | 2.51     | 8.84   | 1            | 300   |
 | Vietnam      | 12       | 45     | 1.77     | 6.63   | 1            | 2000  |
-
+  
 China air mail post:  
 Pros  
 Very cheap  
