@@ -49,7 +49,6 @@ more detail please refer to epacket [offical site](http://shipping.ems.com.cn/pr
 | Denmark      | 25       | 60     | 3.69     | 8.84   | 1            | 2000  |
 | Germany      | 19       | 60     | 2.8      | 8.84   | 1            | 2000  |
 | Russia       | 17       | 55     | 2.51     | 8.11   | 1            | 2000  |
-|              | 18       | 55     | 2.66     | 8.11   | 1            | 2000  |
 | France       | 19       | 60     | 2.8      | 8.84   | 1            | 2000  |
 | Finland      | 25       | 65     | 3.69     | 9.58   | 1            | 2000  |
 | Kazakhstan   | 8        | 70     | 1.18     | 10.31  | 50           | 2000  |
