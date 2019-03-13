@@ -20,7 +20,7 @@ Many couriers own their express for specific countries. Name some of them, US Ex
 Express work with International logistics to do the first leg, go through FCL(full container load), Air charter ship to the destination country, local customs clearance do the second leg, they will take it from custom and deliver to customer's door.  
 
 Pros:  
-Common option for Amazon FBA, accetable price, US normally 3-10days, EURO 7-15 days, rarely lost package.  With full cycle tracking. **Customs duties included for some of the countries**.  
+The common option for Amazon FBA, acceptable price, US normally 3-10days, EURO 7-15 days, rarely lost package.  With full cycle tracking. **Customs duties included for some of the countries**.  
 Cons:
 Expensive than epacket, Minimal initial weight 23KG per order.  
 
@@ -35,7 +35,7 @@ Good price, acceptable shipping time. With tracking number. Serve many countries
 Cons  
 Weight limit 2kg. Dimension limit x+y+z <= 90 cm;  
 
-more detail please refer to epacket [offical site](http://shipping.ems.com.cn/product/findDetail?sid=400025).
+more detail please refer to epacket [official site](http://shipping.ems.com.cn/product/findDetail?sid=400025).
 
 | destination  | fee      |        | fee      |        | first weight | limit |
 |--------------|----------|--------|----------|--------|--------------|-------|
