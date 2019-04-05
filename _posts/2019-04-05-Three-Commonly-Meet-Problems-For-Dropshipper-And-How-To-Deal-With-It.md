@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three commonly meet problems for dropshipper and how to deal with it.
-date: 2019-03-06
+date: 2019-04-05
 ---
 When the first step into dropshipping business, you will face some commonly seen difficulties right away.  
 
