@@ -5,7 +5,7 @@ date: 2019-04-05
 ---
 When the first step into dropshipping business, you will face some commonly seen difficulties right away.  
 
-Finding a winning product is on the top of the list. How can we find a winning product to get sell?   
+Finding a winning product is on the top of the list. How can we find a winning product to get sell?  
 Some of good seller has their particular experience and many methods to find their winning product. I am not a pro dropshipper while went back my years experience to deal with good dropshipper, you can always find their winning products meets a few criteria:  
 Product are hot sell at categories, normally get hundreds of selling in a few months, while selling history not very long, looks like the product just on the way up.  The weight is less than 2kg.  
 Because common shipping service [epacket](https://1stopdropshipping.com/blog/2019/03/1-Article-Answer-All-Question-Of-Shipping.html) can do max 2kg.  And the winning product must not found at Amazon, make any sense to sell Amazon product? People tend to buy from Amazon instead of your shopify store for sure.  
