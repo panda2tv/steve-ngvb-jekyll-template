@@ -7,16 +7,17 @@ permalink: /howitwork/
   <img src="{{ site.baseurl}}/images/howitwork.svg">
 </p>
 
-## **No monthly fee! Charge fix service fee only pre-order!**  
+#### **No monthly fee! Charge fix service fee only pre-order!**  
 
-## **Free quote! Factory price!**  
+#### **Free quote! Factory price!**  
 
-## **Source everything you can find at Aliexpress!**  
+#### **Source everything you can find at Aliexpress!**  
 
-## **Fast Worldwide Shipping!**  
+#### **Fast Worldwide Shipping!**  
 
-## **PayPal; T/T; Credit Card; West Union**  
+#### **PayPal; T/T; Credit Card; West Union accept!**  
 
+<br>
 1. paypal  
 
 2. T/T (Bank Wire Transfer)  
