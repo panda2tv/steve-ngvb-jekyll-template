@@ -7,7 +7,6 @@ permalink: /howitwork/
   <img src="{{ site.baseurl}}/images/howitwork.svg">
 </p>
 
-
 ## **No monthly fee! Charge fix service fee only pre-order!**  
 
 ## **Free quote! Factory price!**  
