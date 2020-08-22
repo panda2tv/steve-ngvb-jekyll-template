@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My client fourfold his selling during COVID-19 outbreak and shipping blows up the business;
-date:-2020-07-18
+date: 2020-07-18
 ---
 
 
