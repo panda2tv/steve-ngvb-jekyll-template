@@ -44,6 +44,13 @@ layout: default
   <div class="col">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/kItGpJwcHxk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
+  <div class="col list-group list-group-flush">
+          <li  class="list-group-item text-uppercase font-weight-bold">Latest Posts</li>  
+        {% for post in site.posts offset:0 limit:4 %}
+          <a href="{{ post.url }}" class="list-group-item">{{post.title}}</a>
+        {% endfor %}
+        
+  </div> 
 </div>
 
 	{% include services.html %}
